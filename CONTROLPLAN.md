@@ -1,5 +1,7 @@
 DestroyrCo D-4FB - four fucking buttons.
 
+The D-4FB will be the reference implementation of the F4B codebase.
+
 The D-4FB will utilize a menu-based approach to maximize the possibilities of limited inputs. As of now, there is a menu for each button planned (But only the CALCULATE menu will be implemented in v0.0).
 
 The buttons will be arranged as (1) (2) (3) (4), and controls below will assume this order.
